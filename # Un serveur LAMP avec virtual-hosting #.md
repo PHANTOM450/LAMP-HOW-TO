@@ -622,3 +622,4 @@ Ceci est un bref apercus de comment mettre en place un serveur lamb dans un home
 Je n'ai pas le temps de mettre a jour se HOW-TO, ni d'y passer plus de temps, il est de votre devoir de vérifier et de mettre à jours les paquets, et d'installer les dernieres version "release".
 
 Le petit parametrage d'UFW ne suffit pas, c'est simplement pour vous donner un apercu, de se à quoi ressemble un serveur lamp pour un administrateur systèmes sans sécurité poussé.
+Comme vous avez aussi pus le remarquer et à adapter a votre cas, je ne vous communique pas mes identifiants ni de mot de passe a mettre ou que j'utilise en clair et en chiffré, puisqu'il ne faut pas beaucoup de temps pour les déchiffrés, je vous conseille de ne pas non plus communiquez cela a votre entourage.
